@@ -1,6 +1,6 @@
 # Analyse des ventes de café — Projet Data Science
 
-- Auteurs
+#### Préparé par 
 - Christie Féliza M. ANILUS
 - Woodt Chelly ALEXANDRE
 
@@ -168,6 +168,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
