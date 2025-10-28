@@ -66,8 +66,9 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
 - Analyse exploratoire (EDA) : histogrammes, heatmaps, comparaisons régionales
    - #### Vente Moyenne par type de café
    - Permet d’identifier les cafés les plus rentables.
-   
-![Vente de café](IMAGES/vente%20moyenne%20par%20type%20de%20café.jpeg)
+
+![Vente de café](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/0929c9d9c8f39e1e69ea81764e1412e2d5b6ada7/vente%20moyenne%20par%20type%20de%20caf%C3%A9.jpeg)
+
    - #### Ditribution des ventes selon le moment de la journée
    - Montre les périodes (matin, midi, soir) où les ventes sont les plus fortes.
 
@@ -167,6 +168,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
