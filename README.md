@@ -4,9 +4,9 @@
 - ##### Christie Féliza M. ANILUS
 - ##### Woodt Chelly ALEXANDRE
 
-- Bootcamp Data Akademi — Phase 5
-- Tuteur : Wedter JEROME
-- Date de remise : Octobre 2025
+- ##### Bootcamp Data Akademi — Phase 5
+- ##### Tuteur : Wedter JEROME
+- ##### Date de remise : Octobre 2025
 
 ## 1. Introduction
 
@@ -168,6 +168,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
