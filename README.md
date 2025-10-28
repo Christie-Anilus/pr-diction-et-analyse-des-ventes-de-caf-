@@ -71,7 +71,8 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
    - #### Ditribution des ventes selon le moment de la journée
    - Montre les périodes (matin, midi, soir) où les ventes sont les plus fortes.
 
-![Ditribution](IMAGES/distributions%20des%20ventes%20par%20moment%20de%20la%20journée.jpeg)
+![Distribution](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/f1b56403d5046e55f25b9e875e3fc3b3aaeb34a6/distributions%20des%20ventes%20par%20moment%20de%20la%20journ%C3%A9e.jpeg)
+
    - #### Répartition des types de paiement
    - Indique les modes de paiement les plus utilisés (espèces, carte, etc.)
 
@@ -166,6 +167,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
