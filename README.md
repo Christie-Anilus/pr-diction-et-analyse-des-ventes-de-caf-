@@ -135,7 +135,8 @@ Variable	Importance	Interprétation
     - Score R² : 0.978
 
 #### Visualisation des performances selon les paramètres
-![heatmap des peroformances du modele](IMAGES/Capture%20d’écran_26-10-2025_224725_.jpeg)
+
+![heatmap des performances du modele](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/3b174697ffb11188d7db439a3e4c9a97bbcdc448/Capture%20d%E2%80%99%C3%A9cran_26-10-2025_224725_.jpeg)
 
  ### 8. Recommandations
 
@@ -165,6 +166,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
