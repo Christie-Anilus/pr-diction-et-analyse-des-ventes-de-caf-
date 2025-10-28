@@ -75,8 +75,8 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
 
    - #### Répartition des types de paiement
    - Indique les modes de paiement les plus utilisés (espèces, carte, etc.)
-
-![Paiement](IMAGES/nombre%20des%20transactions%20par%20type%20de%20paiement.jpeg)
+     
+![Paiement](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/10f1e5c1448cc647a57599fdf084fd5904a28281/nombre%20des%20transactions%20par%20type%20de%20paiement.jpeg)
 
    - #### Ventes totales par mois
    - Fait ressortir les variations saisonnières et les pics de ventes.
@@ -167,6 +167,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
