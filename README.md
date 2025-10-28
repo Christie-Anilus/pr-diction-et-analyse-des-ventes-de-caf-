@@ -39,7 +39,7 @@ Elles contiennent :
 Le café souhaite comprendre quels facteurs influencent ses ventes et anticiper les revenus futurs.
 Un modèle de Machine Learning (Random Forest Regressor) a été développé pour prédire les ventes et aider à la prise de décision concernant les promotions, stocks et planifications.
 
-![Image](IMAGES/grain%20café.jpeg)
+![Image](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/721384decc6dab99fc61b88efd39906ceb48e65a/grain%20caf%C3%A9.jpeg)
 
 ### 3. Objectifs du projet
 #### 3.1. Objectif général
@@ -167,6 +167,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
