@@ -104,7 +104,7 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
  #### Valeurs réelles vs. prédites
  - Les points proches de la diagonale indiquent une excellente précision.
 
-![Valeurs reelles et predites](IMAGES/Capture%20d’écran_26-10-2025_224425_.jpeg)
+![Valeurs reelles et predites](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/1a98f80030ba2cf32225c36a9e4bfaa891a68cb7/Capture%20d%E2%80%99%C3%A9cran_26-10-2025_224425_.jpeg)
 
 #### Distribution des erreurs (résidus)
  - Confirme la stabilité et la symétrie des erreurs autour de zéro.
@@ -165,6 +165,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
