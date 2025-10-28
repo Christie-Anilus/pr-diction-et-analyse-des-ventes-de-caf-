@@ -22,7 +22,7 @@ Les compétences mobilisées incluent :
 - Visualisation (matplotlib, seaborn)
 - Analyse statistique et modélisation prédictive (scikit-learn)
 
-![Image du café](IMAGES/expresso.jpeg)
+![Image du café](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/ea7975749a5275fb345c90285bc8dc8da101e178/expresso.jpeg)
 
 ### 2. Compréhension du contexte et des données
 
@@ -167,6 +167,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
