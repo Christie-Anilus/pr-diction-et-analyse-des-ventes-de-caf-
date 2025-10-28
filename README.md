@@ -81,6 +81,7 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
    - Fait ressortir les variations saisonnières et les pics de ventes.
 
 ![Ventes mensuelles](IMAGES/ventes%20totales%20par%20mois.jpeg)
+https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/58e14f22573a8aceee0e37eecf3699bbbb33987a/ventes%20totales%20par%20mois.jpeg
 - Modélisation prédictive : test de plusieurs modèles (Régression linéaire, Random Forest)
 - Évaluation des performances et analyse de l’importance des variables.
 
@@ -162,4 +163,5 @@ Nous remercions :
  - Wedter Jérôme, pour son accompagnement constant
  - Madame Castelline, pour son encadrement bienveillant
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
+
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
