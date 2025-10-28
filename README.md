@@ -114,7 +114,7 @@ Un modèle de Machine Learning (Random Forest Regressor) a été développé pou
 #### Importance des variables
  - Met en évidence les facteurs les plus déterminants pour les ventes.
 
-![Importance des variables](IMAGES/Capture%20d’écran_26-10-2025_224553_.jpeg)
+![Importance des variables](https://github.com/Christie-Anilus/pr-diction-et-analyse-des-ventes-de-caf-/blob/bab91cf8c4c0d25c954c9aecb25fd283558035a3/Capture%20d%E2%80%99%C3%A9cran_26-10-2025_224553_.jpeg)
 
  ### 7. Résultats et interprétation
 
@@ -165,6 +165,7 @@ Nous remercions :
  - Djovany et mes collègues du Bootcamp pour leur soutien et leur esprit d’équipe.
 
  - Enfin, nous remercions tous ceux qui, directement ou indirectement, contribué à ce parcours d’apprentissage, et sans qui ce projet n’aurait pas vu le jour.
+
 
 
 
